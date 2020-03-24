@@ -1,2 +1,2 @@
-# alekseykriukov.github.io
-Мой первый сайт на GitHub Pages
+# Алексей Крюков
+Мой сайт на GitHub Pages
