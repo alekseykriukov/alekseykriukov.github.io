@@ -1,3 +1,3 @@
-# Алексей Крюков
+# Aleksey Kriukov
 
-Мой сайт на GitHub Pages
+my first GitHub Pages site
